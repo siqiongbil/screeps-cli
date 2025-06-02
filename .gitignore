@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.swp
+
+# 构建输出
+/dist/
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 环境变量
+.env
+
+# npm 缓存
+.npm
+
+# 其他
+package-lock.json 
